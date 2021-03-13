@@ -1,0 +1,6 @@
+1. Run the attached code in Google Collab (cloud Platform ) for best experience.
+2. The Dataset used is GTZAN (1.23GB)
+3. If you don't want to upload whole dataset onto drive , we have also provided a "FEATURES.CSV" file also.
+4. To Run Project in this way just upload this .csv file to drive and start executing code from cell no.4.
+5. Rest of the code should run file if all the library are properly loaded.
+   Thank You.
